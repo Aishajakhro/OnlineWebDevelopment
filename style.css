@@ -1,0 +1,74 @@
+body{
+    font-family: Segoe UI;
+}
+
+.text{
+    text-align: justify;
+    margin: 1% 15%;
+}
+
+.div3{
+    background-color: rgb(15, 118, 221);
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.div4{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.tab5{
+    tab-size: 500px;
+  
+}
+
+.div6{
+    border: 1px;
+    display: flex;
+    justify-content: center;
+}
+
+.tab7{
+    background-color: rgba(20, 20, 20, 0.767);
+    
+}
+
+.button{
+    border: none;
+    border-radius: 45%;
+    background-color: white;
+    padding: 10px;
+}
+
+.button:hover{
+    background-color:#316DC3;
+}
+
+header,footer{
+    background-color: rgb(15, 118, 221);
+}
+
+
+.base{
+    padding-bottom: 200px;
+}
+
+.contact{
+    padding-left: 50px;
+}
+.border{
+
+  border-collapse: separate;
+    border:1px solid #D7DBDD;
+	width: 30%;
+	padding: 2% 2%;
+	font-family: "Times New Roman";
+	font-size: 18px;
+	text-align: left;
+	background-color: #F2F2F2;
+	font-weight: bold;
+	box-shadow: 0px 2px 8px 5px #D7DBDD;
+}
